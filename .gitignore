@@ -1,0 +1,17 @@
+# Java / Maven
+backend/target/
+*.class
+*.log
+# IDE / editor
+.idea/
+.vscode/
+*.iml
+.DS_Store
+# AI assistant local files
+.claude/
+CLAUDE.md
+# Node / Vite
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
